@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\209_AnotherLibrarySystemOOP\Source.cpp(132,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\209_AnotherLibrarySystemOOP\Source.cpp(137,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\209_AnotherLibrarySystemOOP\Source.cpp(327,27): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\209_AnotherLibrarySystemOOP\Source.cpp(361,13): error C2039: 'addMember': is not a member of 'Library'
+D:\Abu-HandhoudCoursesAllInOne\PracticesAndProblems\209_AnotherLibrarySystemOOP\Source.cpp(364,13): error C2039: 'viewAllAuthors': is not a member of 'Library'

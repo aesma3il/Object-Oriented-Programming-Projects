@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\Abu_HadhoudCoursesRepo\\060_PersonalFinanceTrackerV1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56F9A943-C11A-401C-8B82-020A579C1EE5}|060_PersonalFinanceTrackerV1.vcxproj|D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\Abu_HadhoudCoursesRepo\\060_PersonalFinanceTrackerV1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56F9A943-C11A-401C-8B82-020A579C1EE5}|060_PersonalFinanceTrackerV1.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\Abu_HadhoudCoursesRepo\\060_PersonalFinanceTrackerV1\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\Abu_HadhoudCoursesRepo\\060_PersonalFinanceTrackerV1\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAQwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T01:18:15.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\208_SimpleECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59514884-B101-4DC5-A1D0-71A67F18E7EA}|208_SimpleECommerce.vcxproj|D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\208_SimpleECommerce\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{59514884-B101-4DC5-A1D0-71A67F18E7EA}|208_SimpleECommerce.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\208_SimpleECommerce\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "D:\\Abu-HandhoudCoursesAllInOne\\PracticesAndProblems\\208_SimpleECommerce\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAQwJUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-21T00:22:51.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
